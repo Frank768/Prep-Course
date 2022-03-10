@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Elemento que representa un espacio de memoria en el computador que sirve para almacenar Valores
+
+ * Strings: Tipo de variable que se almacena en forma de cadena de caracteres, que pueden ser alfanumericos, siempre y cuando se escriban entre comillas
+
+ * Funciones (argumentos, `return`): Metodo que permite agrupar lineas de codigo para ejecutar tareas repetitivas y de una parte llamada argumentos que es donde se definen criterios de entrada de datos por parte del usuario, y aue retorna valores que los determina el programador
+
+ * Declaraciones `if`: Condicional que permite tomar decisiones en el codigo, donde se evalua si un criterio es verdadero o falso, y dependiendo de la evaluación que se determine se ejecutan o no lineas de codigo
+
+ * Valores booleanos (`true`, `false`): son valores propios de programación que determinan un valor lógico verdadero (true) o falso (false) y se utilizan para evaluar funciones condicionales o expresiones
