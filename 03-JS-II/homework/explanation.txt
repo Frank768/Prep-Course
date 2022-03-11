@@ -1,0 +1,42 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+For
+Es una setencia de tipo bucle o ciclo, que repite un codigo dependiendo de los argumentos que se declaren
+       for (valor-inicio-del-ciclo   ;   criterio-evaluación  ;  valor-final-del-ciclo)
+       {
+           //Aqui se escribe el codigo a ejecutar cada ciclo que se ejecute
+       }
+
+mientras se cumpla o sea verdadera la codición "criterio-evaluación", el codigo dentro del for se ejecutará
+valor-inicio-del-ciclo:  es solo el valor con el que se comienza a ejecutar el ciclo, y se tiene en cuenta solo al inicio.
+valor-final-del-ciclo: es el valor con el que se modifica cada vez que se hace un ciclo
+
+&&
+es un operador logico booleano que corresponde a la tabla de la verdad del "Y lógico", y sirve para comparar valores
+
+valor 1    valor 2   resultado
+True       True      True
+True       False     False
+False      True      False
+False      False     False
+
+La evaluación solo es verdadera cuando todos sus argumentos son verdades
+
+|| Operador de comparación "O Lógico"
+es un operador de comparación booleano, que solo es Falso cuando todos los argumentos de comparación son falsos
+
+Valor 1      Valor 2   Resultado
+True         True      True
+True         False     True
+False        True      True
+False        False     False
+
+! "operador de comparación booleano Negación"
+es un operador de comparación booleano que invierte o niega el valor del argumento al que se asocia
+
+Valor 1      Resultado
+True         False
+False        True
