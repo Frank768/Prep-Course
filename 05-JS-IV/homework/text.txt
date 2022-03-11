@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+Objeto: es como un array, pero consiste en una colección de propiedades que contiene una clave (nombre de la propiedad) y en un valor y no necesariamente es ordenado
+
+Propiedades:  son los argumentos que contiene un objeto y se definen en su estructura
+
+Métodos:  es una función definida en una propiedad dentro de un objeto
+
+Bucle 'for...in': estructura ciclica que sirve para recorrer todas las propieades de un objeto de manera sistematica
+
+Notación de puntos: Dot notation, es una forma de acceder al valor de una clave dentro de un objeto cuando se conoce con antelación el nombre exacto de la propiedad
+
+Notación de corchetes: Bracket Notation, es una forma de acceder al valor de una clave de un objeto cuando la clave es una variable y no se conoce con antelación el nombre de la propiedad
